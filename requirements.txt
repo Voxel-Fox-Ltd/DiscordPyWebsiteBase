@@ -1,0 +1,14 @@
+# Discord and config handling
+git+https://github.com/4Kaylum/discord.py@master
+toml
+
+# Storage handling
+asyncpg
+aioredis
+cryptography
+
+# Website handling
+aiohttp
+aiohttp_jinja2
+aiohttp_session
+jinja2
